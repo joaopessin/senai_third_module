@@ -4,10 +4,8 @@ Internet
   - Surgimento a partir de projetos militares
   - Escolher uma linguagem de estudo de acordo com a necessidade do mercado e gosto pessoal
   - Mundialmente falando, é uma rede complexa de computadores, interligadas por fios, satélites, cabos submarinos e afins (não se pode "desligar" tudo)
-
-Cabos
-Fibra Óptica
-A Luz Faz Curva?
+  - Cabos e fibra óptica
+  - A luz faz curva?
 
 Linguagens de Programacão
   - Interpretadas vs Compiladas
@@ -19,3 +17,6 @@ Linguagens de Programacão
 HTML
   - HiperText Markup Language
   - Estrutura básica do website
+  - Parágrafos, imagens, links e afins
+  - Precisa de um navegador para ler o conteúdo do "arquivo.html"
+  - <tags/> - códigos que definem a estrutura da página (letra, cores, quebra de linha e afins)
