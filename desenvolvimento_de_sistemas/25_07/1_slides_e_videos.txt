@@ -1,0 +1,10 @@
+Internet
+  - Conjunto de redes de computadores interligados
+  - Aumento de processamento de dados ao longo do tempo
+  - Surgimento a partir de projetos militares
+  - Escolher uma linguagem de estudo de acordo com a necessidade do mercado e gosto pessoal
+  - Mundialmente falando, é uma rede complexa de computadores, interligadas por fios, satélites, cabos submarinos e afins (não se pode "desligar" tudo)
+
+Cabos
+Fibra Óptica
+A Luz Faz Curva?

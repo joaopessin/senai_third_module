@@ -1,4 +1,0 @@
-- Conjunto de redes de computadores interligados
-- Aumento de processamento de dados ao longo do tempo
-- Surgimento a partir de projetos militares
-- Escolher uma linguagem de estudo de acordo com a necessidade do mercado e gosto pessoal
