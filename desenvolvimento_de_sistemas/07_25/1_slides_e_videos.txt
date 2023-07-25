@@ -15,3 +15,7 @@ Linguagens de Programacão
   - Compilada: convertida diretamente na máquina (rápida e eficiênte | maior controle do hardware) - alguns exemplos são: C, C++, Go, Rust e outros
   - Interpretada: executam cada comando, linha por linha (mais prática para execucão e atualizacão) - exemplos: PHP, Python, JavaScript e outros
   - Vantagens vs Desvantagens
+
+HTML
+  - HiperText Markup Language
+  - Estrutura básica do website
