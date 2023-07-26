@@ -1,4 +1,4 @@
-# 🚀 Desenvolvimento de Sistemas(SENAI): Terceiro Módulo 🎓
+# 🚀 Desenvolvimento de Sistemas (SENAI): Terceiro Módulo 🎓
 
 Bem-vindo ao meu portfólio de projetos desenvolvidos durante o último módulo do curso de Desenvolvimento de Sistemas no SENAI. Durante 6 meses, trabalharei em diversas áreas emocionantes, incluindo:
 
