@@ -1,6 +1,6 @@
 # 🚀 Desenvolvimento de Sistemas (SENAI): Terceiro Módulo 🎓
 
-Bem-vindo ao meu portfólio de projetos desenvolvidos durante o último módulo do curso de Desenvolvimento de Sistemas no SENAI. Durante 6 meses, trabalharei em diversas áreas emocionantes, incluindo:
+Bem-vindo ao meu portfólio de projetos desenvolvidos durante o último módulo do curso de Desenvolvimento de Sistemas no SENAI. Durante 6 meses, trabalharei em algumas matérias aos quais tenho bastante interesse, tais como:
 
 ## 🛠️ Áreas de Atuação
 
@@ -11,11 +11,11 @@ Bem-vindo ao meu portfólio de projetos desenvolvidos durante o último módulo 
 
 ## 📚 Objetivo
 
-O objetivo deste repositório é demonstrar minha evolução, habilidades e conhecimentos adquiridos durante o curso. Aqui você encontrará uma variedade de projetos, desde aplicações práticas até trabalhos teóricos relacionados aos temas abordados.
+O objetivo deste repositório é demonstrar minha evolução, habilidades e conhecimentos adquiridos durante o curso. Aqui você encontrará uma variedade de projetos, desde aplicações práticas até os trabalhos teóricos abordados.
 
 ## 🗂️ Organização
 
-Os projetos estão organizados em diretórios separados, cada um representando uma área de atuação específica.
+Os projetos estão organizados em pastas separadas, cada um representando uma área específica.
 
 ## 🔄 Atualizações
 
