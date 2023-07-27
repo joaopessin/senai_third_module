@@ -1,0 +1,17 @@
+Formatacão de texto
+ - Organização de tags
+
+Listas
+ - <ol/>: lista ordenada
+ - <ul/>: lista não ordenada
+ - <li/>: item da lista
+
+Imagens
+ - <img/>: imagem
+ - src: link / nome do arquivo (caminho)
+ - alt: descreve o conteúdo da imagem
+ - height e width: altura e largura
+
+Links
+ - <a/>
+ - href: referência
