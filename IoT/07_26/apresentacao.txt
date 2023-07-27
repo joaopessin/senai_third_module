@@ -1,0 +1,26 @@
+Introducão
+- Rede de objeto físico
+- Tecnologia para comunicacão / interacão
+
+O que é?
+- Sensores e conectividade
+- * Entender a necessidade para facilitar a vida (dores - para cada situacão)
+- "Sistema autônomo com dependência"
+
+Pilares
+- * Conectividade (nem tudo precisa estar conectado a rede, mas pelo menos um ponto, sim)
+- Sensores
+- Acão / Action (ACT)
+- Armazenamento / Store (não necessariamente em uma nuvem)
+- Análise
+- Controle
+- * Compartilhado
+- Eficiência energética
+- Qualidade
+- * Confiabilidade e seguranca
+
+Situacão
+- Estimulos: grandes investimentos | baixo custo de sensores | expansão
+- Barreiras: seguranca | privacidade | implementacão | fragmentacão
+
+* Gartner: referência na área tecnológica (consultoria)
