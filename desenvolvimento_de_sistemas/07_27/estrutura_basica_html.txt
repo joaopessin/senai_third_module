@@ -15,3 +15,10 @@ Imagens
 Links
  - <a/>
  - href: referência
+
+Table
+ - <table/>: tabela
+ - <caption/>: facilita a leitura para a pessoa que está lendo
+ - <thead / tbody / tfoot/>: separa a página web em três elementos
+ - <th / tr / td/>: cabeçalho / linha das células / dados/>
+
