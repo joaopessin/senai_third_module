@@ -1,0 +1,2 @@
+Mesclagem de tabelas e Cores
+- Atributos: colspan | rowspan | bgcolor
