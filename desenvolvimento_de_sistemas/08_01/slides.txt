@@ -1,0 +1,8 @@
+Form
+- <form/> ou <input/>
+- Representa a secao do documento
+- Data, numero, cpf e afins
+- Atributo "type"
+- Tipos: button * | checkbox * | color | date * | datetime | email * | hidden * | month | number * | password | radio | range | reset | search | submit * | text
+- Mesmo name para identificar o mesmo campo
+- <label/> e <textarea/> são tags que podem ser usadas dentro do form
