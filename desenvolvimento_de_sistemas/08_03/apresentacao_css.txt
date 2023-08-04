@@ -1,0 +1,4 @@
+Introdução ao CSS
+- Pense como uma "decoração da página"
+- Cores de textos e fundos, fonte, ajustar imagens, layout e afins
+- Ideal separar arquivo somente para CSS, para distinguir da estrutura HTML
