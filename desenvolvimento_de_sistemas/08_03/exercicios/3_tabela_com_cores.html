@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <title>HortFrut</title>
+        <meta charset="UTF-8"/>
+        <style>
+            body { background-color: rgb(0, 0, 48); }
+            table {
+                background-color: rgb(212, 212, 255);
+                color: rgb(0, 0, 48);
+            }
+            caption { color: rgb(212, 212, 255); }
+            .lacuna { width: 75px; }
+        </style>
+    </head>
+    <body>
+        <table border="1px" align="center">
+            <caption><i>HortFrut</i></caption>
+            <thead">
+                <tr>
+                    <th>Frutas</th>
+                    <th>Verduras</th>
+                    <th>Grãos</th>
+                    <th  class="lacuna">-</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>Maçã</td>
+                    <td>Alface</td>
+                    <td>Arroz</td>
+                    <td rowspan="3"><b>3 linhas</b></td>
+                </tr>
+
+                <tr>
+                    <td>Laranja</td>
+                    <td>Beterraba</td>
+                    <td>Trigo</td>
+                </tr>
+
+                <tr><td colspan="3"  class="lacuna"><b>3 colunas</b></td></tr>
+            </tbody>
+        </table>
+    </body>
+</html>

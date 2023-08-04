@@ -1,0 +1,10 @@
+h1 { color: rgb(136, 31, 31); }
+
+.hortalica { width: 150px; }
+
+.caixa_1 {
+    display: inline-block; /* display: forma de exibir | inline-block: em vez de "quebrar linha", continua na linha anterior */
+    width: 200px;
+    height: 800px;
+    background-color: rgb(231, 197, 197);
+}

@@ -1,0 +1,20 @@
+.menu_lateral {
+    width: 20%;
+    height: 500px;
+    display: inline-block;
+    background-color: orange;
+}
+
+.principal {
+    width: 59%;
+    height: 500px;
+    display: inline-block;
+    background-color: aqua;
+}
+
+.arquivo {
+    width: 20%;
+    height: 500px;
+    display: inline-block;
+    background-color: blue;
+}
