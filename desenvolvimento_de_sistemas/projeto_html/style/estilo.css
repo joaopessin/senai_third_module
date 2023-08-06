@@ -1,0 +1,27 @@
+.introducao { background-color: rgb(250, 215, 215); }
+.introducao h1, .introducao b { color: rgb(200, 25, 25); }
+
+.descricao { background-color: rgb(221, 250, 215); }
+.descricao h2, .descricao b { color: rgb(25, 200, 25); }
+
+.sobre_mim { background-color: rgb(215, 218, 250); }
+.sobre_mim h2, .sobre_mim b { color: rgb(25, 25, 200); }
+
+/*1rem (root em [relativo ao elemento-raiz]) = 16px*/
+h1 { font-size: 2.2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.4rem; }
+
+h4, caption, th { font-size: 1.2rem; }
+
+h4 > a {
+  font-size: 1.1rem;
+  color: rgb(25, 25, 200);
+}
+
+th {
+  color: rgb(242, 238, 250);
+  background-color: rgb(25, 25, 200);
+}
+
+p, li, td { font-size: 1.1rem; }
