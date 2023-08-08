@@ -1,0 +1,51 @@
+
+/*GENERAL*/
+div.general { display: flex; }
+
+div.header, div.main, div.footer {
+    display: inline-block;
+    height: 900px;
+}
+
+div.main, div.footer {
+    margin: 15% 1% 0% 1%;
+}
+
+
+/*HEADER*/
+.header {
+    width: 20%;
+    background-color: rgb(245, 168, 68);
+}
+
+.header > a {
+    display: block;
+    margin-top: 5%;
+    margin-left: 25%;
+}
+
+/*MAIN*/
+.main { width: 60%; }
+
+.main > .main_menu {
+    /*margin: espaço externo*/
+    padding: 1%;
+    text-align: center;
+    background-color: rgb(245, 168, 68);
+}
+
+.main_menu > a {
+    /*padding: espaço interno*/
+    padding-left: 5%;
+}
+
+
+/*FOOTER*/
+.footer { width: 20%; }
+
+
+/*TAGS*/
+img {
+    max-width: 100%;
+    width: 75%;
+}
