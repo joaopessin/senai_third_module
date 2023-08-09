@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <title>Calculadora</title>
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+    </head>
+    <body>
+        <form action="calculadora.php"> <!-- GET(array) -->
+            <label>Número 1</label>
+            <input type="text" name="n1"/>
+
+            <label>Número 2</label>
+            <input type="text" name="n2"/>
+
+            <select name="operacao"> <!-- name: nome que "puxará" na URL -->
+                <option value="soma">Soma</option>
+                <option value="subtracao">Subtração</option>
+                <option value="multiplicacao" selected>Multiplicação</option>
+                <option value="divisao">Divisão</option>
+            </select>
+
+            <input type="submit" value="enviar"/>
+        </form>
+    </body>
+</html>
