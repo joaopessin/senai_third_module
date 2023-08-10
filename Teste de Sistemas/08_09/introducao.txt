@@ -1,0 +1,5 @@
+Processo de Testes
+- Os testes nasceram para descobrir falhas
+- Todo cenário terá um caminho alternativo (possíveis falhas)
+- Falha é algo que não está na documentação (mesmo que queira colocar)
+- Confiança | funcionalidade | performance
