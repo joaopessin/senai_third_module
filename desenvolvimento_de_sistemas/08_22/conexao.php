@@ -4,6 +4,9 @@ $dsn = 'mysql:dbname=loja;host=localhost;port=3306';
 $user = 'root';
 $password = '';
 
-$dbh = new PDO($dsn, $user, $password);
-
+try {
+    $dbh = new PDO($dsn, $user, $password);
+} catch(PDOException $e) {
+    echo 'Erro de conexão.';
+}
 ?>
