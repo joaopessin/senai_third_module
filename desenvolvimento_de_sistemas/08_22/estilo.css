@@ -1,0 +1,30 @@
+.form{
+    display: inline-block;
+    background-color: rgb(180, 180, 180);
+    width: 50%;
+    height: 250px;
+    border-style: solid;
+    border-color: #0699fc;
+    border-radius: 4%;
+}
+.aling_label{
+    margin-left: 10%;
+}
+
+
+.hr{
+   border-color: black;
+   border-width: 2px;
+   border-radius: 10px;
+  
+}
+.hr2{
+    border-color: black;
+    border-width: 2px;
+    border-radius: 10px;
+    margin-top: 13%;
+}
+.title{
+    font-family: sans-serif;
+    text-align: center;
+}
