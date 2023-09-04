@@ -4,7 +4,8 @@ Bem-vindo ao meu portfólio de projetos desenvolvidos durante o último módulo 
 
 ## 🛠️ Áreas de Atuação
 
-- Desenvolvimento e Manutenção de Sistemas
+- Desenvolvimento de Sistemas
+- Manutenção de Sistemas
 - Testes de Sistemas
 - Internet das Coisas (IoT)
 - Trabalho de Conclusão de Curso (TCC)
