@@ -1,3 +1,10 @@
+<?php
+    include('conexao.php');
+
+    $query = $dbh -> prepare(SELECT * FROM categoria);
+    $query -> execute();
+?>
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -16,6 +23,8 @@
             <input type="text" name="valor" id=""><br>
             <label class="aling_label" for="">Quantidade</label>
             <input type="text" name="quantidade" ><br>
+            <label for="">Categoria</label>
+            <select name="categoria"><br>
             <input class="aling_label" type="submit" value="Cadastrar"><br>
         </form>
         <hr class="hr2">

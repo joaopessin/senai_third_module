@@ -1,0 +1,12 @@
+.tableProd{
+    border-style: solid;
+    border-color: black;
+    margin-right: 90%;
+    background-color: rgb(218, 218, 218);
+    height: 200px;
+    width: 179px;
+
+}
+.margin{
+    margin-left: 50px;
+}
