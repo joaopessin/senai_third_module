@@ -1,0 +1,8 @@
+form {
+  max-width: 50%;
+  margin: 5% 25%;
+}
+
+form > .form-group { margin-bottom: 10px; }
+.form-group > .h2 { margin-bottom: 15px; }
+.form-group > button { margin-top: 10px; }
