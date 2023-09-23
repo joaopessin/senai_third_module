@@ -1,13 +1,13 @@
 <?php
   include('../database/conexao.php');
 
-  if(isset($POST['nome'], $POST['categoria'], $POST['preco'], $POST['quantidade']) && $POST['nome'] != '') {
+  if(isset($_POST['nome'], $_POST['categoria'], $_POST['preco'], $_POST['quantidade']) && $_POST['nome'] != '' && $_POST['categoria'] != '' && $_POST['preco'] != '' && $_POST['quantidade'] != '') {
     $nome_produto = $_POST['nome'];
     $categoria_produto = $_POST['categoria'];
     $preco_produto = $_POST['preco'];
     $quantidade_produto = $_POST['quantidade'];
   } else {
-    echo '<h2>Variáveis não definidos!</h2>';
+    echo '<h2>Variáveis não definidas!</h2>';
     die();
   }
 
@@ -21,7 +21,7 @@
       ':quantidade' => $quantidade_produto
     ));
 
-    echo '<h2>Cadastrado com sucesso!</p>';
+    echo '<h2>Cadastrado com sucesso!</h2>';
   } catch(PDOExcpetion $excecao) {
     echo '<h2>Erro: '.$excecao -> getMessage().'</h2>';
     echo '<h2>Código: '.$excecao -> getCode().'</h2>';

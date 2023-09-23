@@ -15,4 +15,5 @@ VALUES('Lenovo Ideapad S145', 'Notebook', 2250.50, 25);
 DESCRIBE produto;
 SELECT * FROM produto;
 
+ALTER TABLE produto CHANGE COLUMN nome nome VARCHAR(100) NOT NULL;
 UPDATE loja.produto SET categoria = 'Notebooks' WHERE id = 1;
